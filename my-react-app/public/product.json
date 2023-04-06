@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Earbuds",
+    "description": "These wireless earbuds offer high-quality sound and come with a portable charging case.",
+    "price": 49.99,
+    "image": "images/image7.jpg"
+
+  },
+
+  {
+    "id": "2",
+    "name": "Wireless Earbuds",
+    "description": "These wireless earbuds offer high-quality sound and come with a portable charging case.",
+    "price": 49.99,
+    "image": "images/image8.jpeg"
+
+  },
+
+  {
+    "id": "3",
+    "name": "Wireless Earbuds",
+    "description": "These wireless earbuds offer high-quality sound and come with a portable charging case.",
+    "price": 49.99,
+    "image": "images/image9.jpeg"
+
+  },
+  {
+    "id": "4",
+    "name": "Wireless Earbuds",
+    "description": "These wireless earbuds offer high-quality sound and come with a portable charging case.",
+    "price": 49.99,
+    "image": "images/image10.jpg"
+
+  },
+
+  {
+    "id": "5",
+    "name": "Wireless Earbuds",
+    "description": "These wireless earbuds offer high-quality sound and come with a portable charging case.",
+    "price": 49.99,
+    "image": "images/image11.jpg"
+
+  },
+
+  {
+    "id": "6",
+    "name": "Wireless Earbuds",
+    "description": "These wireless earbuds offer high-quality sound and come with a portable charging case.",
+    "price": 49.99,
+    "image": "images/image12.jpg"
+
+  },
+
+  {
+    "id": "7",
+    "name": "Wireless Earbuds",
+    "description": "These wireless earbuds offer high-quality sound and come with a portable charging case.",
+    "price": 49.99,
+    "image": "images/image7.jpg"
+
+  },
+
+  {
+    "id": "8",
+    "name": "Wireless Earbuds",
+    "description": "These wireless earbuds offer high-quality sound and come with a portable charging case.",
+    "price": 49.99,
+    "image": "images/image7.jpg"
+
+  }
+]
